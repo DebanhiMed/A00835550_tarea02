@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "nombre": "Crema de Zanahoria Casera",
+        "ingredientes": "4 Zanahorias en rodajas y cocidas, 1 Envase de Leche Evaporada, 1 Taza de agua, 1 Cucharada de consomé de pollo en polvo, 1/4 De cucharadita de jengibre molido",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "4",
+        "pasos": "1.Licúa las zanahorias con la Leche Evaporada CARNATION®️ CLAVEL®️, el agua, el consomé de pollo y el jengibre., 2.Vierte en una olla y calienta a fuego medio durante 8 minutos o hasta que espese ligeramente., 3.Ofrece.",
+        "imagenNombre": "cremadezanahoria",
+        "isFavorite": false
+    },
+    {
+        "id": 2,
+        "nombre": "Crema de Papa Casera",
+        "ingredientes": "2 Cucharadas de mantequilla, 1/4 Pieza de cebolla, fileteada, 2 Papas, cocidas y cortadas en cubos pequeños, 1 Lata de Leche Evaporada, 1 Cucharada de consomé de pollo, en polvo, Croutones",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "4",
+        "pasos": "1.Calienta la mantequilla y fríe ligeramente la cebolla, agrega la papa y cocina por 5 minutos, reserva, 2.Licúa la Leche Evaporada con el consomé de pollo, la nuez moscada, el agua y la preparación anterior, 3.Vierte la crema en una olla y calienta hasta que espese ligeramente, moviendo constantemente para evitar que se pegue. Sirve al momento y decora con croutones; ofrece.",
+        "imagenNombre": "cremadepapa",
+        "isFavorite": false
+    },
+    {
+        "id": 3,
+        "nombre": "Crema de Chile Poblano con Queso",
+        "ingredientes": "250 Gramos de queso tipo manchego rallado, 2 Chiles poblanos limpios, 1/2 Cebolla cortada en trozos, 1/2 Cucharadita de pimienta negra molida, 2 Tazas de agua, 2 Cucharadas de consomé de pollo en polvo en polvo, 1 Lata de Leche Evaporada",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "6",
+        "pasos": "1.Licúa el queso con los chiles poblanos, la cebolla, la Pimienta Negra Molida, el agua, el consomé de pollo y la Leche, 2.Cocina a fuego medio en una olla hasta que espese ligeramente moviendo para que no se pegue, 3.Sirve la crema en un tazón. Puedes decorar con cilantro y acompaña con la rebanada de pan.",
+        "imagenNombre": "cremadechile",
+        "isFavorite": false
+    },
+    {
+        "id": 4,
+        "nombre": "Crema de Pimiento Con Queso",
+        "ingredientes": "1 Lata de Leche Evaporada(1 1/2 tazas), 1 Lata de Media Crema, 50 Gramos de Queso de cabra, 1 Lata de Pimiento morrón escurrido (250 g), 1 1/2 Cucharadas de Consomé de pollo en polvo, 1 1/2 Tazas de Agua, 1 1/2 Cucharadas de Fécula de maíz, 2 Cucharadas de Mantequilla, 1 Cucharada de Ajo picado finamente, 1 Envase de Media Crema refrigerado (190 g), 4 Ramitas de Perejil fresco desinfectado y picado finamente",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "4",
+        "pasos": "1.Licúa la Leche Evaporada, la lata de Media Crema, el queso de cabra, el pimiento, el consomé de pollo, el agua y la fécula de maíz, 2.Calienta la mantequilla y fríe el ajo hasta que cambie de color. Vierte lo que licuaste y calienta hasta que espese ligeramente moviendo constantemente para evitar que se pegue, 3. 3.Sirve, decora con unas gotas de Media Crema alrededor de la crema, pasa la punta de un palillo por cada gota para formar corazones y termina con un poco de perejil al centro. Ofrece.",
+        "imagenNombre": "cremapimientoconqueso",
+        "isFavorite": true
+    },
+    {
+        "id": 5,
+        "nombre": "Crema de Calabaza",
+        "ingredientes": "1 Cucharada de aceite vegetal, 1/4 De pieza de cebolla picada finamente, 1 Diente de ajo picado finamente, 4 Calabazas cortadas en cubos, 1 1/2 Tazas de caldo de pollo, 1 Lata de Leche Evaporada, 1 Lata de Media Crema, Sal, Pimienta negra molida",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "6",
+        "pasos": "1.En una olla calienta el aceite, agrega la cebolla, el ajo y las calabazas, cocina por 5 minutos, 2.Licúa la preparación anterior con el caldo de pollo, la Leche Evaporada, la Media Crema, la sal y la pimienta, 3.Calienta la crema y cocina hasta que espese ligeramente moviendo para evitar que se pegue. Sirve al momento disfruta.",
+        "imagenNombre": "cremadecalabaza",
+        "isFavorite": false
+    },
+    {
+        "id": 6,
+        "nombre": "Crema de Zanahoria con Brocoli",
+        "ingredientes": "4 Zanahorias ralladas y asadas, 1/4 De pieza de cebolla, 1 1/2 Cucharadas de sal con ajo, 2 Tazas de CARNATION®️ CLAVEL®️ Origen Almendra, 2 Tazas de agua, 2 Tazas de soya texturizada hidratada, 2 Tazas de brócoli cocido",
+        "tipo": "Entrada",
+        "dificultad": "Fácil",
+        "porciones": "4",
+        "pasos": "1.Licúa las zanahorias con la cebolla, la sal con ajo, la CARNATION®️ CLAVEL®️ Origen Almendra y el agua hasta integrar por completo, 2.En una olla agrega la mezcla anterior con la soya previamente escurrida y el brócoli. Cocina a fuego miedo por 9 minutos moviendo constantemente para evitar que se pegue, 3.Sirve y ofrece.",
+        "imagenNombre": "cremadezanahoriaconbrocoli",
+        "isFavorite": false
+    }
+]
