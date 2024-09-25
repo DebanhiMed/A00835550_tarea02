@@ -11,10 +11,9 @@ struct RecipesDetail: View {
     var recetas: Recipe
     
     var body: some View {
-        VStack {
+        ScrollView {
             CircleImage(image: recetas.imagen)
-                .offset(y: -60)
-                .padding(.bottom, -130)
+                .padding(.bottom)
             
             VStack(alignment: .leading){
                 Text(recetas.nombre)
