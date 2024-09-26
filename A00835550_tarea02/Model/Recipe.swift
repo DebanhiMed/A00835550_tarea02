@@ -15,7 +15,12 @@ struct Recipe: Hashable, Codable, Identifiable {
     var tipo: String
     var dificultad: String
     var porciones: String
-    var pasos: String
+    var paso1: String
+    var paso2: String
+    var paso3: String
+    var u1: String
+    var u2: String
+    var u3: String
     var isFavorite: Bool
     
     private var imagenNombre: String

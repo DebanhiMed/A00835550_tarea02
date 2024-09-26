@@ -19,7 +19,7 @@ struct RecipesList: View {
         NavigationSplitView {
             VStack {
                 Toggle(isOn: $soloFavoritas) {
-                    Text("Solo favoritas")
+                    Text("Especialidades")
                 }
                 .padding()
 

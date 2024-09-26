@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF0BE6FE2CA4F68900F92DF1 /* PlateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0BE6FD2CA4F68900F92DF1 /* PlateView.swift */; };
+		DF0BE7082CA5001A00F92DF1 /* SheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0BE7072CA5001A00F92DF1 /* SheetView.swift */; };
 		DF2A57332CA3E13700B8C3F0 /* RecetasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2A57322CA3E13700B8C3F0 /* RecetasApp.swift */; };
 		DF2A57352CA3E13700B8C3F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2A57342CA3E13700B8C3F0 /* ContentView.swift */; };
 		DF2A57372CA3E13800B8C3F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF2A57362CA3E13800B8C3F0 /* Assets.xcassets */; };
@@ -21,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF0BE6FD2CA4F68900F92DF1 /* PlateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlateView.swift; sourceTree = "<group>"; };
+		DF0BE7072CA5001A00F92DF1 /* SheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetView.swift; sourceTree = "<group>"; };
 		DF2A572F2CA3E13700B8C3F0 /* A00835550_tarea02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = A00835550_tarea02.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF2A57322CA3E13700B8C3F0 /* RecetasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecetasApp.swift; sourceTree = "<group>"; };
 		DF2A57342CA3E13700B8C3F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +95,8 @@
 				DF2A574A2CA3EB9100B8C3F0 /* RecipeRow.swift */,
 				DFD5B8C62CA4521300A08B96 /* RecipesList.swift */,
 				DFD5B8CA2CA4539800A08B96 /* RecipesDetail.swift */,
+				DF0BE6FD2CA4F68900F92DF1 /* PlateView.swift */,
+				DF0BE7072CA5001A00F92DF1 /* SheetView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -184,6 +190,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF2A57412CA3E1BE00B8C3F0 /* Recipe.swift in Sources */,
+				DF0BE6FE2CA4F68900F92DF1 /* PlateView.swift in Sources */,
+				DF0BE7082CA5001A00F92DF1 /* SheetView.swift in Sources */,
 				DF2A57432CA3E56700B8C3F0 /* ModelData.swift in Sources */,
 				DF2A574B2CA3EB9100B8C3F0 /* RecipeRow.swift in Sources */,
 				DF2A57352CA3E13700B8C3F0 /* ContentView.swift in Sources */,

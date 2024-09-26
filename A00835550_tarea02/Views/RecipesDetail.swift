@@ -19,12 +19,13 @@ struct RecipesDetail: View {
                 Text(recetas.nombre)
                     .font(.title)
                 HStack{
-                    VStack{
+                    
                         Text(recetas.tipo)
                             .font(.subheadline)
+                            Spacer()
                         Text(recetas.dificultad)
                             .font(.subheadline)
-                    }
+                    
                     Spacer()
                     Text("Porciones: \(recetas.porciones)")
                 }
@@ -33,16 +34,49 @@ struct RecipesDetail: View {
                 
                 Divider()
                 
-                Text("Receta")
-                    .font(.title2)
-                    .padding(.bottom)
+                HStack{
+                    Image(recetas.u1)
+                        .resizable()
+                        .scaledToFit()
+                        .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                        .frame(width: 50)
+                    Text(recetas.u1)
+                        .font(.caption)
+                    Divider()
+                    Image(recetas.u2)
+                        .resizable()
+                        .scaledToFit()
+                        .clipShape(Circle())
+                        .frame(width: 50)
+                    Text(recetas.u2)
+                        .font(.caption)
+                    Divider()
+                    Image(recetas.u3)
+                        .resizable()
+                        .scaledToFit()
+                        .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                        .frame(width: 50)
+                    Text(recetas.u3)
+                        .font(.caption)
+                }
+                Divider()
                 Text("INGREDIENTES: ")
                     .bold()
                 Text(recetas.ingredientes)
                     .padding(.bottom)
                 Text("PASOS: ")
                     .bold()
-                Text(recetas.pasos)
+                Text("Paso 1")
+                    .italic()
+                Text(recetas.paso1)
+                    .padding(.bottom)
+                Text("Paso 2")
+                    .italic()
+                Text(recetas.paso2)
+                    .padding(.bottom)
+                Text("Paso 3")
+                    .italic()
+                Text(recetas.paso3)
             }
             .padding()
         }
